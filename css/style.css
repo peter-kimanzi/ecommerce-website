@@ -1,0 +1,175 @@
+:root{
+    --primary-color:#D10024;
+    --dark-color:rgba(0,0,0,0);
+
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+
+body{
+    font-family:"Arial", sans-serif ;
+    --webkit-font-smoothing:antialiased;
+}
+
+html{
+    border: 70px solid black;
+    /* box-shadow: inset 120px 100px 250px rgba(0,0,0,0.5); */
+
+}
+
+
+.kim{
+    background-color: var(--primary-color);
+    width: 230px;
+    height: 20rem;
+    padding-top: 15vh;
+    color: #ffffff;
+}
+
+.kim .k,.p{
+    font-family: "CHICKEN Pie";
+    padding-left: 40px;
+}
+
+.kim h3{
+    border: 4px solid white;
+    padding:2px;
+    text-align: center;
+    margin-top: 10px;
+    width: 10rem;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+/* nav */
+
+.nav{
+    margin-top: 50px;
+    text-align: right;
+    width: 230px;
+    padding-left: 0;
+}
+
+.nav li {
+    padding: 10px 0;
+    
+
+}
+
+.nav li a{
+    color: black;
+    font: sans-serif;
+    font-weight: bold;
+}
+.nav li a:hover {
+    background-color: var(--primary-color);
+    cursor: pointer;
+    padding: 20px 30px;
+    color: #ffffff;
+    padding-left: 010px;
+    width: 100%;
+}
+
+/* img */
+.img{
+    transform: translate(-50%, -50%);
+    margin-left: 40rem;
+    margin-bottom: 1000px;
+    height: 40vh;
+    position: absolute;
+    top: 20rem;
+    left: 20px;
+
+}
+
+img{
+    height: 100%;
+}
+
+.circle{
+    margin-top: -550px;
+}
+.circle{
+    content: "";
+    background-color: #D10024;
+    height: 450px;
+    width: 450px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: 40rem;
+    margin-bottom: 1000px;
+    position: relative;
+    top: 20rem;
+    left: 20px;
+    border: 1px solid rgb(41, 39, 39);
+}
+
+/* .circle2{
+    content: "";
+    background-color: #D10024;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    margin-left: 10rem;
+    margin-bottom: -200px;
+    position: absolute;
+    top: 20rem;
+    left: 20px;
+} */
+
+.circle2{
+    width: 93%;
+    height: 93%;
+    border-width: 10px;
+    background-color: #ffffff;
+    transform: rotate(-45deg);
+    top:12px;
+    left: 12px;
+    border-color: #ffffff;
+    position: absolute;
+    border-radius: 50%;
+}
+
+
+.circle3{
+    width: 60%;
+    height:100%;
+    border-width: 10px;
+    background-color: #ffffff;
+    transform: rotate(-90deg);
+    /* top:120px;
+    left: 12px; */
+    border-color: #ffffff;
+    position: absolute;
+    margin-top: 10px;
+    border-radius: 70%;
+}
+
+/* .circle4{
+    width: 50%;
+    height:400px;
+    border-width: 10px;
+    background-color: #ffffff;
+    transform: rotate(180deg);
+    top:120px;
+    left: 12px;
+    border-color: #ffffff;
+    position: absolute;
+    margin-top: 150px;
+} */
+
+
+
+
+/* food */
+
+
