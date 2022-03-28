@@ -5,6 +5,8 @@ this website is made using forntend frameworks and libraries only!
 
 website can be viewed here https://kimjayden.github.io/ecommerce-website/
 
+Frontend ecommerce website to display items for sale
+
 
 
  <br>
