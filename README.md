@@ -7,7 +7,9 @@ website can be viewed here https://kimjayden.github.io/ecommerce-website/
 
 
 
-
+ <br>
+<h1> License </h1>
+<br>
 
 
 <h3>Copyright (c) 2022  <h3>
